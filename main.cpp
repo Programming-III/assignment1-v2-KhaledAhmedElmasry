@@ -11,6 +11,18 @@ using namespace std;
 // ==================== Person Class Implementation =========================
 
 
+int main() {
+Person p1("Omar nabil",2202);
+    Student s1(2,"informatics");
+    Instructor i1("lina khaled",5);
+    p1.display();
+    s1.display();
+    i1.display();
+Course c1(;
+   c1.display();
+   
+
+}
 
 
 
